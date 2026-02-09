@@ -14,40 +14,75 @@ Featuring **285** stellar projects across **25** categories.
 
 ---
 
-## Table of Contents
+## Patrick's Favorites
 
-- [Top Picks](#-top-picks)
-- [🧠 AI & Large Language Models](#ai--large-language-models)
-- [🤖 AI Coding & Agentic Tools](#ai-coding--agentic-tools)
-- [🔊 Speech, Audio & Transcription](#speech-audio--transcription)
-- [🏠 Self-Hosted Infrastructure](#self-hosted-infrastructure)
-- [🎨 Dashboards & Startpages](#dashboards--startpages)
-- [🏡 Home Automation & IoT](#home-automation--iot)
-- [📡 Hardware, Embedded & Mesh](#hardware-embedded--mesh)
-- [🔒 Privacy & Security](#privacy--security)
-- [📝 Notes, Knowledge & Writing](#notes-knowledge--writing)
-- [📚 Media & Content Management](#media--content-management)
-- [📄 Documents & OCR](#documents--ocr)
-- [💻 Developer Tools & Terminals](#developer-tools--terminals)
-- [🌐 Web, CMS & Design](#web-cms--design)
-- [📧 Email & Newsletters](#email--newsletters)
-- [💰 Finance & Budgeting](#finance--budgeting)
-- [💬 AI Chat & Assistants](#ai-chat--assistants)
-- [🌍 Networking & Remote Access](#networking--remote-access)
-- [🖥️ Operating Systems & Desktop](#operating-systems--desktop)
-- [📱 Browsers & Extensions](#browsers--extensions)
-- [📊 Productivity & Project Management](#productivity--project-management)
-- [📷 Computer Vision & Face AI](#computer-vision--face-ai)
-- [📦 NAS & Storage](#nas--storage)
-- [📢 Communication & Messaging](#communication--messaging)
-- [🎓 Learning & Research](#learning--research)
-- [🌎 Curated Lists & Misc](#curated-lists--misc)
+> The tools I use and recommend the most.
 
----
+### [pinokio](https://github.com/pinokiocomputer/pinokio)
 
-## Top Picks
+![Stars](https://img.shields.io/github/stars/pinokiocomputer/pinokio?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://pinokio.co)
 
-> My personal favorites — the tools I use and recommend the most.
+**One-click installer for AI apps — the AI browser**
+
+- Install & run any AI app (Stable Diffusion, LLMs, TTS) with one click
+- Cross-platform desktop app with built-in dependency management
+- Community-driven script library for hundreds of AI projects
+- No terminal knowledge required — fully visual interface
+
+### [wallabag](https://github.com/wallabag/wallabag)
+
+![Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://wallabag.org)
+
+**Self-hosted read-it-later app — own your reading list**
+
+- Save articles from any browser with extensions for Chrome, Firefox, and mobile
+- Full-text search, tagging, and annotation system
+- Export to ePub, PDF, or Mobi for offline reading on e-readers
+- RSS feed output and API for third-party integrations
+
+### [akaunting](https://github.com/akaunting/akaunting)
+
+![Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://akaunting.com)
+
+**Free online accounting software for small businesses**
+
+- Invoicing, expense tracking, bill management, and bank reconciliation
+- Multi-company, multi-currency, and multi-user support
+- App marketplace with 100+ extensions (inventory, payroll, CRM)
+- Docker-ready self-hosted deployment with Laravel backend
+
+### [firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
+![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://firefly-iii.org/)
+
+**Self-hosted personal finance manager with full control over your data**
+
+- Double-entry bookkeeping with budgets, categories, and tags
+- Bank import via Spectre, GoCardless, and CSV/OFX/QIF files
+- Rule engine for automatic transaction categorization
+- Beautiful reports, charts, and multi-currency support
+
+### [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+
+![Stars](https://img.shields.io/github/stars/pi-hole/docker-pi-hole?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=shell&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://pi-hole.net)
+
+**Network-wide ad blocker running in Docker**
+
+- Blocks ads, trackers, and malware at DNS level for all devices
+- Web-based admin dashboard with real-time query logging
+- Custom blocklists and whitelists with regex support
+- Acts as DHCP server and supports DNS-over-HTTPS upstream
+
+### [Libation](https://github.com/rmcrackan/Libation)
+
+![Stars](https://img.shields.io/github/stars/rmcrackan/Libation?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/C#-555?style=flat-square&logo=c#&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://getlibation.com)
+
+**Free Audible audiobook manager and DRM liberator**
+
+- Download and decrypt your purchased Audible audiobooks
+- Batch processing with automatic chapter splitting
+- Export to M4B or MP3 with full metadata and cover art
+- Cross-platform GUI (Windows, macOS, Linux) and CLI
 
 ### [ghostty](https://github.com/ghostty-org/ghostty)
 
@@ -82,17 +117,6 @@ Featuring **285** stellar projects across **25** categories.
 - Built-in safety: network-disabled sandbox by default
 - Works with any OpenAI-compatible model endpoint
 
-### [pinokio](https://github.com/pinokiocomputer/pinokio)
-
-![Stars](https://img.shields.io/github/stars/pinokiocomputer/pinokio?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://pinokio.co)
-
-**One-click installer for AI apps — the AI browser**
-
-- Install & run any AI app (Stable Diffusion, LLMs, TTS) with one click
-- Cross-platform desktop app with built-in dependency management
-- Community-driven script library for hundreds of AI projects
-- No terminal knowledge required — fully visual interface
-
 ### [obs-studio](https://github.com/obsproject/obs-studio)
 
 ![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://obsproject.com)
@@ -103,39 +127,6 @@ Featuring **285** stellar projects across **25** categories.
 - Unlimited scenes, sources, and transitions with plugin ecosystem
 - Streams to Twitch, YouTube, Facebook Live, and custom RTMP servers
 - Cross-platform (Windows, macOS, Linux) and completely free
-
-### [firefly-iii](https://github.com/firefly-iii/firefly-iii)
-
-![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://firefly-iii.org/)
-
-**Self-hosted personal finance manager with full control over your data**
-
-- Double-entry bookkeeping with budgets, categories, and tags
-- Bank import via Spectre, GoCardless, and CSV/OFX/QIF files
-- Rule engine for automatic transaction categorization
-- Beautiful reports, charts, and multi-currency support
-
-### [akaunting](https://github.com/akaunting/akaunting)
-
-![Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://akaunting.com)
-
-**Free online accounting software for small businesses**
-
-- Invoicing, expense tracking, bill management, and bank reconciliation
-- Multi-company, multi-currency, and multi-user support
-- App marketplace with 100+ extensions (inventory, payroll, CRM)
-- Docker-ready self-hosted deployment with Laravel backend
-
-### [wallabag](https://github.com/wallabag/wallabag)
-
-![Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://wallabag.org)
-
-**Self-hosted read-it-later app — own your reading list**
-
-- Save articles from any browser with extensions for Chrome, Firefox, and mobile
-- Full-text search, tagging, and annotation system
-- Export to ePub, PDF, or Mobi for offline reading on e-readers
-- RSS feed output and API for third-party integrations
 
 ### [bichon](https://github.com/rustmailer/bichon)
 
@@ -148,17 +139,6 @@ Featuring **285** stellar projects across **25** categories.
 - OAuth2 support for Gmail and Outlook integration
 - Built in Rust for high performance with minimal resource usage
 
-### [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
-
-![Stars](https://img.shields.io/github/stars/pi-hole/docker-pi-hole?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=shell&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://pi-hole.net)
-
-**Network-wide ad blocker running in Docker**
-
-- Blocks ads, trackers, and malware at DNS level for all devices
-- Web-based admin dashboard with real-time query logging
-- Custom blocklists and whitelists with regex support
-- Acts as DHCP server and supports DNS-over-HTTPS upstream
-
 ### [rustdesk](https://github.com/rustdesk/rustdesk)
 
 ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://rustdesk.com)
@@ -169,17 +149,6 @@ Featuring **285** stellar projects across **25** categories.
 - Cross-platform: Windows, macOS, Linux, iOS, Android, and Web
 - File transfer, clipboard sync, and multi-monitor support
 - No account required — works with a simple ID and password
-
-### [Libation](https://github.com/rmcrackan/Libation)
-
-![Stars](https://img.shields.io/github/stars/rmcrackan/Libation?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/C#-555?style=flat-square&logo=c#&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://getlibation.com)
-
-**Free Audible audiobook manager and DRM liberator**
-
-- Download and decrypt your purchased Audible audiobooks
-- Batch processing with automatic chapter splitting
-- Export to M4B or MP3 with full metadata and cover art
-- Cross-platform GUI (Windows, macOS, Linux) and CLI
 
 ### [fish-speech](https://github.com/fishaudio/fish-speech)
 
@@ -224,6 +193,36 @@ Featuring **285** stellar projects across **25** categories.
 - Supports backlinks, graph view, and transclusion
 - Customizable themes and layout with full CSS control
 - Free hosting via GitHub Pages, Vercel, or Netlify
+
+---
+
+## Table of Contents
+
+- [🧠 AI & Large Language Models](#ai--large-language-models)
+- [🤖 AI Coding & Agentic Tools](#ai-coding--agentic-tools)
+- [🔊 Speech, Audio & Transcription](#speech-audio--transcription)
+- [🏠 Self-Hosted Infrastructure](#self-hosted-infrastructure)
+- [🎨 Dashboards & Startpages](#dashboards--startpages)
+- [🏡 Home Automation & IoT](#home-automation--iot)
+- [📡 Hardware, Embedded & Mesh](#hardware-embedded--mesh)
+- [🔒 Privacy & Security](#privacy--security)
+- [📝 Notes, Knowledge & Writing](#notes-knowledge--writing)
+- [📚 Media & Content Management](#media--content-management)
+- [📄 Documents & OCR](#documents--ocr)
+- [💻 Developer Tools & Terminals](#developer-tools--terminals)
+- [🌐 Web, CMS & Design](#web-cms--design)
+- [📧 Email & Newsletters](#email--newsletters)
+- [💰 Finance & Budgeting](#finance--budgeting)
+- [💬 AI Chat & Assistants](#ai-chat--assistants)
+- [🌍 Networking & Remote Access](#networking--remote-access)
+- [🖥️ Operating Systems & Desktop](#operating-systems--desktop)
+- [📱 Browsers & Extensions](#browsers--extensions)
+- [📊 Productivity & Project Management](#productivity--project-management)
+- [📷 Computer Vision & Face AI](#computer-vision--face-ai)
+- [📦 NAS & Storage](#nas--storage)
+- [📢 Communication & Messaging](#communication--messaging)
+- [🎓 Learning & Research](#learning--research)
+- [🌎 Curated Lists & Misc](#curated-lists--misc)
 
 ---
 
