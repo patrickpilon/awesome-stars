@@ -16,6 +16,7 @@ Featuring **285** stellar projects across **25** categories.
 
 ## Table of Contents
 
+- [Top Picks](#-top-picks)
 - [🧠 AI & Large Language Models](#ai--large-language-models)
 - [🤖 AI Coding & Agentic Tools](#ai-coding--agentic-tools)
 - [🔊 Speech, Audio & Transcription](#speech-audio--transcription)
@@ -41,6 +42,188 @@ Featuring **285** stellar projects across **25** categories.
 - [📢 Communication & Messaging](#communication--messaging)
 - [🎓 Learning & Research](#learning--research)
 - [🌎 Curated Lists & Misc](#curated-lists--misc)
+
+---
+
+## Top Picks
+
+> My personal favorites — the tools I use and recommend the most.
+
+### [ghostty](https://github.com/ghostty-org/ghostty)
+
+![Stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/Zig-EC915C?style=flat-square&logo=zig&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://ghostty.org)
+
+**A blazing-fast, GPU-accelerated terminal emulator**
+
+- Native platform UI (macOS, Linux) with GPU-accelerated rendering
+- Zero-config sensible defaults with deep customization via config file
+- Ligature & emoji support, splits, tabs, and theming built-in
+- Written in Zig for maximum performance and minimal resource usage
+
+### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+
+![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://geminicli.com)
+
+**Google's open-source AI agent right in your terminal**
+
+- Conversational AI coding, debugging, and system tasks from the command line
+- Full MCP (Model Context Protocol) client and server support
+- Reads your codebase context for project-aware assistance
+- Free tier available with your Google account
+
+### [codex](https://github.com/openai/codex)
+
+![Stars](https://img.shields.io/github/stars/openai/codex?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white)
+
+**Lightweight, terminal-native coding agent by OpenAI**
+
+- Runs locally in your terminal with sandboxed code execution
+- Multi-file editing, shell commands, and iterative development
+- Built-in safety: network-disabled sandbox by default
+- Works with any OpenAI-compatible model endpoint
+
+### [pinokio](https://github.com/pinokiocomputer/pinokio)
+
+![Stars](https://img.shields.io/github/stars/pinokiocomputer/pinokio?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://pinokio.co)
+
+**One-click installer for AI apps — the AI browser**
+
+- Install & run any AI app (Stable Diffusion, LLMs, TTS) with one click
+- Cross-platform desktop app with built-in dependency management
+- Community-driven script library for hundreds of AI projects
+- No terminal knowledge required — fully visual interface
+
+### [obs-studio](https://github.com/obsproject/obs-studio)
+
+![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://obsproject.com)
+
+**The gold standard for live streaming and screen recording**
+
+- Real-time video/audio capture, compositing, and encoding
+- Unlimited scenes, sources, and transitions with plugin ecosystem
+- Streams to Twitch, YouTube, Facebook Live, and custom RTMP servers
+- Cross-platform (Windows, macOS, Linux) and completely free
+
+### [firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
+![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://firefly-iii.org/)
+
+**Self-hosted personal finance manager with full control over your data**
+
+- Double-entry bookkeeping with budgets, categories, and tags
+- Bank import via Spectre, GoCardless, and CSV/OFX/QIF files
+- Rule engine for automatic transaction categorization
+- Beautiful reports, charts, and multi-currency support
+
+### [akaunting](https://github.com/akaunting/akaunting)
+
+![Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://akaunting.com)
+
+**Free online accounting software for small businesses**
+
+- Invoicing, expense tracking, bill management, and bank reconciliation
+- Multi-company, multi-currency, and multi-user support
+- App marketplace with 100+ extensions (inventory, payroll, CRM)
+- Docker-ready self-hosted deployment with Laravel backend
+
+### [wallabag](https://github.com/wallabag/wallabag)
+
+![Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://wallabag.org)
+
+**Self-hosted read-it-later app — own your reading list**
+
+- Save articles from any browser with extensions for Chrome, Firefox, and mobile
+- Full-text search, tagging, and annotation system
+- Export to ePub, PDF, or Mobi for offline reading on e-readers
+- RSS feed output and API for third-party integrations
+
+### [bichon](https://github.com/rustmailer/bichon)
+
+![Stars](https://img.shields.io/github/stars/rustmailer/bichon?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Lightning-fast, self-hosted email archiver with full-text search**
+
+- IMAP email archival with Tantivy-powered full-text search
+- Modern WebUI for browsing, searching, and reading archived emails
+- OAuth2 support for Gmail and Outlook integration
+- Built in Rust for high performance with minimal resource usage
+
+### [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+
+![Stars](https://img.shields.io/github/stars/pi-hole/docker-pi-hole?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=shell&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://pi-hole.net)
+
+**Network-wide ad blocker running in Docker**
+
+- Blocks ads, trackers, and malware at DNS level for all devices
+- Web-based admin dashboard with real-time query logging
+- Custom blocklists and whitelists with regex support
+- Acts as DHCP server and supports DNS-over-HTTPS upstream
+
+### [rustdesk](https://github.com/rustdesk/rustdesk)
+
+![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://rustdesk.com)
+
+**Open-source remote desktop — the self-hosted TeamViewer alternative**
+
+- End-to-end encrypted connections with self-hostable relay server
+- Cross-platform: Windows, macOS, Linux, iOS, Android, and Web
+- File transfer, clipboard sync, and multi-monitor support
+- No account required — works with a simple ID and password
+
+### [Libation](https://github.com/rmcrackan/Libation)
+
+![Stars](https://img.shields.io/github/stars/rmcrackan/Libation?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/C#-555?style=flat-square&logo=c#&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://getlibation.com)
+
+**Free Audible audiobook manager and DRM liberator**
+
+- Download and decrypt your purchased Audible audiobooks
+- Batch processing with automatic chapter splitting
+- Export to M4B or MP3 with full metadata and cover art
+- Cross-platform GUI (Windows, macOS, Linux) and CLI
+
+### [fish-speech](https://github.com/fishaudio/fish-speech)
+
+![Stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://speech.fish.audio)
+
+**State-of-the-art open-source text-to-speech engine**
+
+- Multi-language TTS with natural prosody and emotion
+- Voice cloning with just a few seconds of reference audio
+- Real-time streaming inference with low latency
+- VITS/VQGAN architecture with transformer backbone
+
+### [audiobookshelf](https://github.com/advplyr/audiobookshelf)
+
+![Stars](https://img.shields.io/github/stars/advplyr/audiobookshelf?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://audiobookshelf.org)
+
+**Self-hosted audiobook and podcast server with mobile apps**
+
+- Stream or download audiobooks with progress sync across devices
+- Automatic metadata fetching from Audible, Google Books, and more
+- Built-in podcast manager with auto-download and episode tracking
+- Native mobile apps for iOS and Android with offline playback
+
+### [gcds-components](https://github.com/cds-snc/gcds-components)
+
+![Stars](https://img.shields.io/github/stars/cds-snc/gcds-components?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) [![Website](https://img.shields.io/badge/Website-visit-green?style=flat-square)](https://design-system.alpha.canada.ca/)
+
+**Official Government of Canada Design System web components**
+
+- Accessible, bilingual web components following GC standards
+- Framework-agnostic — works with React, Vue, Angular, or vanilla HTML
+- Consistent typography, spacing, and color tokens
+- Actively maintained by the Canadian Digital Service
+
+### [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
+
+![Stars](https://img.shields.io/github/stars/oleeskild/obsidian-digital-garden?style=flat-square&color=yellow) ![Language](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Publish your Obsidian notes as a beautiful digital garden**
+
+- One-click publish from Obsidian to a static site
+- Supports backlinks, graph view, and transclusion
+- Customizable themes and layout with full CSS control
+- Free hosting via GitHub Pages, Vercel, or Netlify
 
 ---
 
